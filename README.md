@@ -4,6 +4,10 @@
 Traditional method based on Outlier Rejection. The code and data are coming soon.
 We also create a new photometric stereo dataset which is constructed with much simple devices, i.e., a mobile phone and a flashlight. 
 # Normal and depth
-![image](normal_depth.png)
+![image](normal_depth.jpg)
 # Compared with other traditional methods
 ![image](result1.png)
+# Part of the new dataset
+![image](newdataset.png)
+# Equipment
+![image](create.png)
